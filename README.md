@@ -3,7 +3,7 @@
 Simple calculator built using HTML, CSS and JavaScript.
 
 ## Live Demo
-https://thanmaya-d.github.io/calculator-project/
+ https://thanmaya-tech.github.io/calculator-project/
 
 ## Technologies Used
 - HTML
